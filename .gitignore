@@ -11,8 +11,6 @@
 /cache/
 /resources/_gen/
 /resources/_template/
-/themes/*/resources/_gen/
-/themes/*/resources/_template/
 
 # Log files
 /log/
