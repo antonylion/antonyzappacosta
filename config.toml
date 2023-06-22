@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = ''
 theme = "paper"
 publishDir = 'public'
+disableHTML = true
+
 
 [markup.goldmark.parser.attribute]
   block = true
