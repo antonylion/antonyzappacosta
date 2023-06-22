@@ -1,0 +1,29 @@
+# Hugo generated files
+/public/
+/resources/
+
+# macOS
+.DS_Store
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Cache and build artifacts
+/cache/
+/resources/_gen/
+/resources/_template/
+/themes/*/resources/_gen/
+/themes/*/resources/_template/
+
+# Log files
+/log/
+
+# Temporary files
+*.tmp
+
+# Build output
+/public/
+
+# Environment-specific files
+.env
