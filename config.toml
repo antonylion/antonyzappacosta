@@ -42,10 +42,10 @@ publishDir = 'public'
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
-    url = "/projects/projects"
+    url = "/projects"
     weight = 10
   [[menu.main]]
     identifier = "resume"
     name = "Resume"
-    pageRef = "/resume"
+    url = "/resume/resume"
     weight = 10
