@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Antony on </title>
+    <title></title>
     <link>https://antonylion.github.io/antonyzappacosta/</link>
-    <description>Recent content in Antony on </description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2023 07:55:41 +0200</lastBuildDate><atom:link href="https://antonylion.github.io/antonyzappacosta/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://antonylion.github.io/antonyzappacosta/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Resume</title>
-      <link>https://antonylion.github.io/antonyzappacosta/resume/</link>
-      <pubDate>Thu, 22 Jun 2023 19:07:07 +0200</pubDate>
+      <title>Antony</title>
+      <link>https://antonylion.github.io/antonyzappacosta/</link>
+      <pubDate>Thu, 22 Jun 2023 07:55:41 +0200</pubDate>
       
-      <guid>https://antonylion.github.io/antonyzappacosta/resume/</guid>
-      <description>Text</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://antonylion.github.io/antonyzappacosta/projects/</link>
-      <pubDate>Thu, 22 Jun 2023 18:20:01 +0200</pubDate>
-      
-      <guid>https://antonylion.github.io/antonyzappacosta/projects/</guid>
-      <description>Projects </description>
+      <guid>https://antonylion.github.io/antonyzappacosta/</guid>
+      <description> Antony Zappacosta Software engineer - Munich, Germany Computer Engineering graduate from the University of Bologna, Italy. Deeply passionate about software engineering and computer vision. </description>
     </item>
     
   </channel>
