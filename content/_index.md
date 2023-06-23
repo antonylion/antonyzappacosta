@@ -38,7 +38,7 @@ date: 2023-06-22T07:55:41+02:00
 
 <div class="profile-container">
   <!-- Set up a circular image with a border radius of 50% -->
-  <img src="Antony.jpg" alt="Profile picture" class="profile-image">
+  <img src="./Antony.jpg" alt="Antony" class="profile-image">
 
   <div class="profile-details">
     <h1>Antony Zappacosta</h1>
