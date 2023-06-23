@@ -6,6 +6,8 @@ publishDir = 'public'
 
 
 
+
+
 [markup.goldmark.parser.attribute]
   block = true
   title = true
@@ -42,10 +44,10 @@ publishDir = 'public'
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
-    url = "/projects"
+    url = "/projects/"
     weight = 10
   [[menu.main]]
     identifier = "resume"
     name = "Resume"
-    url = "/resume/resume"
+    url = "/resume/"
     weight = 10
