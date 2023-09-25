@@ -42,8 +42,8 @@ date: 2023-06-22T07:55:41+02:00
 
   <div class="profile-details">
     <h1>Antony Zappacosta</h1>
-    <h3 style="display: inline;">Software engineer</h3>
-    <h4 style="display: inline;"> - Munich, Germany</h4>
-    <h5>Computer Engineering graduate from the University of Bologna, Italy. Deeply passionate about software engineering and computer vision.</h5>
+    <h3 style="display: inline;">AI engineer</h3>
+    <h4 style="display: inline;"> - Wessling, Germany</h4>
+    <h5>AI research engineer at German Aerospace Center</h5>
   </div>
 </div>
