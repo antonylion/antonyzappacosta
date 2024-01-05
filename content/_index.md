@@ -42,8 +42,12 @@ date: 2023-06-22T07:55:41+02:00
 
   <div class="profile-details">
     <h1>Antony Zappacosta</h1>
-    <h3 style="display: inline;">AI engineer</h3>
-    <h4 style="display: inline;"> - Wessling, Germany</h4>
-    <h5>AI research engineer at German Aerospace Center</h5>
+    <h3 style="display: inline;">Researcher and Helmholtz AI consultant</h3>
+    <h3 style="display: inline;"> - German Aerospace Center (DLR)</h4>
+    <h5>
+    I'm a Research Fellow at the German Aerospace Center's Institute of Earth Observation, based in Oberpfaffenhofen (Bavaria). My work revolves around applying machine and deep learning to satellite imagery.
+    </h5>
+    <h5>Prior to joining DLR, I graduated summa cum laude with a MSc in Computer Engineering from Bologna University, Italy.</h5>
+    <h5>Out of work I love reading and hiking.</h5>
   </div>
 </div>
